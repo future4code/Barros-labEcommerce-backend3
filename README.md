@@ -1,4 +1,13 @@
 # labEcommerce-backend
 
 
-### Coloque as informações do seu projeto, o link da documentação e o link deploy
+### Oque Funciona
+
+Endpoints 
+
+### Autor
+Ariane Lopes de Camargo
+
+### Documentacao do Postman
+
+https://documenter.getpostman.com/view/22373722/2s8YzMYRNP
